@@ -2,10 +2,10 @@
 
 ![Dorian's GitHub stats](https://github-readme-stats.vercel.app/api?username=doriancodes&count_private=true&theme=synthwave&show_icons=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doriancodes&count_private=true&theme=synthwave&show_icons=true&hide=javascript,html,css,jupyter,scss)](https://github.com/doriancodes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doriancodes&count_private=true&theme=synthwave&show_icons=true&hide=html,css,jupyter,scss)](https://github.com/doriancodes/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doriancodes&count_private=true&theme=synthwave&show_icons=true&hide=javascript,html,css,jupyter,scss&layout=compact)](https://github.com/doriancodes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doriancodes&count_private=true&theme=synthwave&show_icons=true&hide=html,css,jupyter,scss&layout=compact)](https://github.com/doriancodes/github-readme-stats)
 
 <!--
 **doriancodes/doriancodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
