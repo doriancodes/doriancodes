@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning more about reactive systems and programming, distributed systems
 
-💬 Ask me about Kotlin, Scala, Java
+💬 Ask me about Kotlin, Scala, Java, functional programming
 
 
 ![Dorian's GitHub stats](https://github-readme-stats.vercel.app/api?username=doriancodes&count_private=true&theme=synthwave&show_icons=true&include_all_commits=true)
