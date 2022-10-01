@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ✨ I'm a Senior Backend Engineer at @visable-dev
+
 🌱 I’m currently learning more about reactive systems and programming, distributed systems
+
 💬 Ask me about Kotlin, Scala, Java
 
 
