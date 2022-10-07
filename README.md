@@ -14,6 +14,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doriancodes&count_private=true&theme=synthwave&show_icons=true&hide=html,css,jupyter,scss&layout=compact)](https://github.com/doriancodes/github-readme-stats)
 
+## Blog posts
+
+- [Hacktoberfest for the busy developer](https://dev.to/doriancodes/hacktoberfest-for-the-busy-developer-35lm)
+
 <!--
 **doriancodes/doriancodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
