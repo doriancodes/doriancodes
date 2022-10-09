@@ -14,6 +14,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doriancodes&count_private=true&theme=synthwave&show_icons=true&hide=html,css,jupyter,scss&layout=compact)](https://github.com/doriancodes/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=doriancodes&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ## Blog posts
 
 - [Hacktoberfest for the busy developer](https://dev.to/doriancodes/hacktoberfest-for-the-busy-developer-35lm)
