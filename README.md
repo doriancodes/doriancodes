@@ -20,6 +20,8 @@
 
 - [Hacktoberfest for the busy developer](https://dev.to/doriancodes/hacktoberfest-for-the-busy-developer-35lm)
 
+[![@doriancodes's Holopin board](https://holopin.io/api/user/board?user=doriancodes)](https://holopin.io/@doriancodes)
+
 <!--
 **doriancodes/doriancodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
