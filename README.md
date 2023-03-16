@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ I'm a Senior Backend Engineer at @visable-dev
+✨ I'm a Senior Backend Engineer at @Thoughtworks
 
 🌱 I’m currently learning more about reactive systems and programming, distributed systems
 
