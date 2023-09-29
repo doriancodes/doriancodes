@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ I'm a Senior Backend Engineer at @Thoughtworks
+✨ I'm a Senior Software Engineer at @Thoughtworks
 
 🌱 I’m currently learning more about reactive systems and programming, distributed systems
 
