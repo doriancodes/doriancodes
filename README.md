@@ -2,7 +2,7 @@
 
 ✨ I'm a Senior Software Engineer at @Thoughtworks
 
-🌱 I’m currently learning more about reactive systems and programming, distributed systems
+🌱 I’m currently learning more about Operating Systems, Computer Networks, Rust, C
 
 💬 Ask me about Kotlin, Scala, Java, functional programming
 
