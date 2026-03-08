@@ -6,8 +6,7 @@
 
 💬 Ask me about Operating Systems, Computer Networks, Rust, DevSecOps, Distributed Systems
 
-
-![Dorian's GitHub stats](https://github-readme-stats.vercel.app/api?username=doriancodes&count_private=true&theme=synthwave&show_icons=true&include_all_commits=true)
+[![Dorian's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/doriancodes?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doriancodes&count_private=true&theme=synthwave&show_icons=true&hide=html,css,jupyter,scss)](https://github.com/doriancodes/github-readme-stats)
 
